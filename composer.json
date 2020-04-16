@@ -1,0 +1,7 @@
+{
+    "name": "ryangriggs/baseconvert",
+    "description": "An arbitrary number base conversion utility supporting arbitrary digit character sets.",
+    "require": {
+        "php": "^5.6"
+    }
+}
