@@ -3,5 +3,13 @@
     "description": "A number base conversion utility function supporting arbitrary digit character sets.",
     "require": {
         "php": "^5.6"
-    }
+    },
+    "license": "MIT",
+    "authors": [
+        { "name":"Ryan Griggs",
+         "email":"rgriggs@hilltop.net",
+         "homepage":"https://hilltop.net",
+         "role":"Developer"
+        }
+        ]
 }
